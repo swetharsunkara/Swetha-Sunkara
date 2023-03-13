@@ -6,7 +6,7 @@
     <p><strong>About my Personal Stuff:</strong></p>
     <p>👩&zwj;💻 I&apos;m pursuing my Professional Certificate Program in Data Analytics at Purdue University</p>
     <p>⏳I am constantly learning and keeping myself updated with the latest technologies in Data Analytics.</p>
-    <p>🤔 My interests are in Data Analytics, Python, Advanced Excel, R Programming Language, Tableau, and Power BI.&nbsp;</p>
+    <p>🤔 My interests are in Data Analytics, Python, SQL, R Programming Language, Tableau, Power BI, Advanced Excel .&nbsp;</p>
     <p>You can find all my Data Analytics Projects here <a data-fr-linked="true" href="https://github.com/swetharsunkara">https://github.com/swetharsunkara</a></p>
     <p>💬 Ask me about anything, I am happy to help.</p>
     <p>📫 Please email via <a data-fr-linked="true" href="mailto:swetharsunkara@gmail.com">swetharsunkara@gmail.com</a> to reach me.</p>
