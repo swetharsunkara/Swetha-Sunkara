@@ -1,6 +1,7 @@
 <div>
     <div>Hi there,&nbsp;<br>I&apos;m Swetha Sunkara! <a href="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" rel="noopener noreferrer nofollow" target="_blank"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="35"></a>&nbsp;</div>
 </div>
+
 <article itemprop="text">
     <p dir="auto">I have 6+ years of Experience as a QA Analyst and I&rsquo;m navigating a career transition into Data Analytics. 👩&zwj;💻</p>
     <p><strong>About my Personal Stuff:</strong></p>
