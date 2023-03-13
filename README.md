@@ -15,7 +15,7 @@
     <div dir="auto">
         <p dir="auto"><a href="https://camo.githubusercontent.com/5ead691fd547595a2714fb04ddc86273a386d4f053001edda5c42678b52f4262/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" rel="noopener noreferrer nofollow" target="_blank"><img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ead691fd547595a2714fb04ddc86273a386d4f053001edda5c42678b52f4262/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c384b36326954446b7a4758362f67697068792e676966" style="float: right; width: 236px;"></a></p>
         <p dir="auto"><strong>Things I&apos;m good at&nbsp;🔥</strong></p>
-        <p dir="auto"><strong>Languages:</strong> Python, HTML, Embedded C.</p>
+        <p dir="auto"><strong>Languages:</strong> Data Analytics, Python, SQL, R Programming Language, Tableau, Power BI, Advanced Excel .</p>
         <p dir="auto"><strong>Framework:</strong> Flask</p>
         <p dir="auto"><strong>Libraries &amp; Tools:</strong> NumPy, Pandas, Matplotlib,&nbsp;</p>
         <p dir="auto">I&apos;m glad that you&nbsp;have finally discovered my Github profile!!</p>
